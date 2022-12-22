@@ -1,0 +1,10 @@
+h1 {
+    font-size: 100px;
+
+}
+
+.alto100 {
+    height: 100px;
+    border: 2px;
+    border-color: blue;
+}
